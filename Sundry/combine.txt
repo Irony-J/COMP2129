@@ -1,0 +1,2 @@
+kilo	mega	giga	tera	peta
+3	6	9	12	15

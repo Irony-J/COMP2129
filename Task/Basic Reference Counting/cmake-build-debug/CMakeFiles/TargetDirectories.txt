@@ -1,0 +1,3 @@
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/cmake-build-debug/CMakeFiles/Basic_Reference_Counting.dir

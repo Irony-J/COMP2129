@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/mem_ref.c
+mem_ref.h
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/mem_ref.h
+
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/mem_ref.h
+stdlib.h
+-
+
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/run.c
+mem_ref.h
+/Users/irony/Documents/Code/COMP2129/Basic Reference Counting/mem_ref.h
+

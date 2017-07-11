@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/irony/Documents/Code/COMP2129/Odd and Even/num.c
+pthread.h
+-
+stdio.h
+-
+
+/Users/irony/Documents/Code/COMP2129/Odd and Even/num.h
+
+/Users/irony/Documents/Code/COMP2129/Odd and Even/num_run.c
+num.h
+/Users/irony/Documents/Code/COMP2129/Odd and Even/num.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+
